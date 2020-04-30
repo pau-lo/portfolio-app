@@ -1,2 +1,3 @@
 # portfolio-app
-a portfolio app created in html, javascript, and python flask....
+
+A portfolio app created in html, javascript, and python Flask.
